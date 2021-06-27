@@ -23,7 +23,7 @@ $concrete: #95A5A6;
 $asbestos: #7F8C8D;
 
 $primary-color: #1A73EC !default;
-$secondary-color: #8C44AB !default;
+$secondary-color: #1A73EC !default;
 $dark-color: #454d5d !default;
 $body-font-color: darken($dark-color, 5%) !default;
 $link-color: darken($primary-color, 5%) !default;
@@ -35,8 +35,8 @@ $code-color: $lavender !default;
 $selection-color: #ECECFE;
 
 // Sidebar
-$sidebar-width: 14rem;
-$sidebar-brand-height: 7rem;
+$sidebar-width: 16rem;
+$sidebar-brand-height: 6rem;
 
 // Fonts
 $base-font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto !default;
@@ -44,5 +44,5 @@ $fallback-font-family: "Helvetica Neue", sans-serif !default;
 $body-font-family: "Public Sans",  $fallback-font-family !default;
 $title-font-family: "Metropolis", $fallback-font-family !default;
 $mono-font-family: "Hack", monospace !default;
-$font-size: .85rem !default;
+$font-size: .70rem !default;
 $min-responsive-font-size: 18px;
