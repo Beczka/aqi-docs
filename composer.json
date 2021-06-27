@@ -107,7 +107,8 @@
     "scripts": {
         "compile": [
             "bin/grav install",
-            "bin/gpm install learn2"
+            "bin/gpm install learn2",
+            "bin/gpm install breadcrumbs"
         ],
         "api-17": "vendor/bin/phpdoc-md generate system/src > user/pages/14.api/default.17.md",
         "post-create-project-cmd": "bin/grav install",

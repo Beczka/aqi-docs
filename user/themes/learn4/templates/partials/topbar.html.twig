@@ -13,6 +13,7 @@
     {% if theme_var('github.link') %}
       {% include 'partials/github-link.html.twig' %}
     {% endif %}
+
     {% if not progress.isFirst(page.path) %}
       <a class="nav-prev tooltip tooltip-bottom" data-tooltip="Previous Page [&larr;]" href="{{ progress.nextSibling(page.path).url }}"> <i class="fa fa-angle-left"></i></a>
     {% else %}
@@ -24,6 +25,11 @@
       <span class="disabled"><i class="fa fa-angle-right"></i></span>
     {% endif %}
   </div>
+
+  <button class="btn btn-sm btn-link"><i class="fa fa-code"></i> API-Explorer</button>
+  <button class="btn btn-sm btn-link"><i class="fa fa-life-ring"></i> Need help?</button>
+  <button class="btn btn-sm btn-primary">Registration</button>
+
   <div class="progress"></div>
 </div>
 
