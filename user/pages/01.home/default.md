@@ -1,42 +1,104 @@
 ---
-title: Home
+title: Aqount API Documentation
+menu: Home
 body_classes: title-center title-h1h2
 ---
 
-# Say Hello to Grav!
-## installation successful...
+Welcome on board. Explore our documentation including examples to help you integrating Aqount.
 
-Congratulations! You have installed the **Base Grav Package** that provides a **simple page** and the default **Quark** theme to get you started.
+## :fa-rocket: Getting started
+An overview of the main sections we have prepared for you to get started. 
 
-!! If you see a **404 Error** when you click `Typography` in the menu, please refer to the [troubleshooting guide](http://learn.getgrav.org/troubleshooting/page-not-found).
+<div class="columns col-oneline getting-started">
+  <div class="column col-4">
+      <div class="card">
+          <div class="card-body">
+            <div class="icon"><i class="fa fa-wpforms"></i></div>
+            <div class="title">Get your test account</div>
+            <div class="teaser">How to run through our [registration process] and get your test account to kick-off.</div>
+           </div>
+          <div class="card-footer"><button class="btn btn-sm btn-primary">Read more</button></div>
+      </div>
+  </div>
+  <div class="column col-4">
+      <div class="card">
+          <div class="card-body">
+            <div class="icon"><i class="fa fa-clipboard"></i></div>
+            <div class="title">Start building your integration</div>
+            <div class="teaser">Follow our checklist to start using our API and get your integration done.</div>
+           </div>
+          <div class="card-footer"><button class="btn btn-sm btn-primary">Read more</button></div>
+      </div>
+  </div>
+  <div class="column col-4">
+      <div class="card">
+          <div class="card-body">
+            <div class="icon"><i class="fa fa-plug"></i></div>
+            <div class="title">Start using our API in real life</div>
+            <div class="teaser">Are you ready for PROD? See how to ge the final connection configuration done.</div>
+           </div>
+          <div class="card-footer"><button class="btn btn-sm btn-primary">Read more</button></div>
+      </div>
+  </div>
+</div>
 
-### Find out all about Grav
+---
 
-* Learn about **Grav** by checking out our dedicated [Learn Grav](http://learn.getgrav.org) site.
-* Download **plugins**, **themes**, as well as other Grav **skeleton** packages from the [Grav Downloads](http://getgrav.org/downloads) page.
-* Check out our [Grav Development Blog](http://getgrav.org/blog) to find out the latest goings on in the Grav-verse.
+<div class="columns col-oneline api-explorer">
+  <div class="column col-12">
+      <div class="card">
+          <div class="card-body">
+                <h2>API Explorer <i class="fa fa-code"></i></h2>
+                <div class="teaser">Use the <strong>Aquout API Explorer</strong> to learn about the API, send test requests and get dummy responses.</div>
+                <button class="btn btn-sm btn-primary">Open API Explorer</button>
+           </div>
+      </div>  
+  </div>
+</div>
 
-!!! If you want a more **full-featured** base install, you should check out [**Skeleton** packages available in the downloads](http://getgrav.org/downloads).
 
-### Edit this Page
 
-To edit this page, simply navigate to the folder you installed **Grav** into, and then browse to the `user/pages/01.home` folder and open the `default.md` file in your [editor of choice](http://learn.getgrav.org/basics/requirements).  You will see the content of this page in [Markdown format](http://learn.getgrav.org/content/markdown).
 
-### Create a New Page
+---
 
-Creating a new page is a simple affair in **Grav**.  Simply follow these simple steps:
+## :fa-briefcase: Products
+An overview of our products and their related services. 
 
-1. Navigate to your pages folder: `user/pages/` and create a new folder.  In this example, we will use [explicit default ordering](http://learn.getgrav.org/content/content-pages) and call the folder `03.mypage`.
-2. Launch your text editor and paste in the following sample code:
+<div class="columns col-oneline products">
+  <div class="column col-6">
+      <div class="card">
+          <div class="card-body">
+             <div class="columns">
+                <div class="column col-auto icon"><i class="fa fa-shopping-bag"></i></div>
+                    <div class="column">
+                        <div class="title">Aqount Webshop</div>
+                        <div class="teaser">Checkout our product Aqount Standard providing all types of finance-related services such as payments, invoicing, accounting, etc. Learn more about Aqount Standard</div>
+                        <button class="btn btn-sm">Read more</button>
+                    </div>
+                </div>
+           </div>
+      </div>  
+  </div>
+  <div class="column col-6">
+      <div class="card">
+          <div class="card-body">
+             <div class="columns">
+                <div class="column col-auto icon"><i class="fa fa-tag"></i></div>
+                    <div class="column">
+                        <div class="title">Aqount for Subscriptions</div>
+                        <div class="teaser">Continous service provision based on subscription models have become common standard. Learn more about our solution Aquont Subscriptions</div>
+                        <button class="btn btn-sm">Read more</button>
+                    </div>
+                </div>
+           </div>
+      </div> 
+  </div>
+</div>
 
-        ---
-        title: My New Page
-        ---
-        # My New Page!
 
-        This is the body of **my new page** and I can easily use _Markdown_ syntax here.
 
-3. Save this file in the `user/pages/03.mypage/` folder as `default.md`. This will tell **Grav** to render the page using the **default** template.
-4. That is it! Reload your browser to see your new page in the menu.
 
-! NOTE: The page will automatically show up in the Menu after the "Typography" menu item. If you wish to change the name that shows up in the Menu, simple add: `menu: My Page` between the dashes in the page content. This is called the YAML front matter, and it is where you configure page-specific options.
+
+
+
+

@@ -13,8 +13,12 @@
     flex-direction: column;
 
     #start {
-        //padding: 2rem 3rem;
-        padding: 2rem 24rem 2rem 4rem;
+        padding: 2rem 3rem;
+        //padding: 2rem 24rem 2rem 4rem;
+
+        .container {
+            //margin-left: 50px;
+        }
 
         @include breakpoint(xl) {
             padding: 2rem 2rem;

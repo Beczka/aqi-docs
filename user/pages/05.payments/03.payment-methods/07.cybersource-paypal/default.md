@@ -1,3 +1,0 @@
----
-title: CyberSource PayPpal
----

@@ -1,0 +1,49 @@
+.getting-started .card {
+   background: #fff;
+   min-height: 240px;
+ }
+
+.getting-started .card .icon {
+  font-size: 2.4rem
+}
+
+.getting-started .card .title {
+  font-size: 0.9rem
+}
+
+.getting-started .card > div {
+  text-align: center;
+}
+
+.products .card {
+  background: #fff;
+}
+
+hr {
+  margin: 2rem 0;
+}
+
+.products .card .icon {
+  font-size: 2.7rem
+}
+
+.products .card .title {
+  font-size: 1.0rem;
+  font-weight: bold;
+}
+
+.products .card button {
+  margin-top: 10px;
+}
+
+.api-explorer .card {
+  background: #fafafa;
+}
+
+.api-explorer h2 {
+  margin: 0.3rem;
+}
+
+.api-explorer button {
+  margin-top: 10px;
+}
