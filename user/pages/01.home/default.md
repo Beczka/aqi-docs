@@ -72,7 +72,7 @@ An overview of our products and their related services.
                 <div class="column col-auto icon"><i class="fa fa-shopping-bag"></i></div>
                     <div class="column">
                         <div class="title">Aqount Webshop</div>
-                        <div class="teaser">Checkout our product Aqount Standard providing all types of finance-related services such as payments, invoicing, accounting, etc. Learn more about Aqount Standard</div>
+                        <div class="teaser">Checkout our product Aqount Webshop providing all types of finance-related services such as payments, invoicing, accounting, etc. Learn more about Aqount Webshop.</div>
                         <button class="btn btn-sm">Read more</button>
                     </div>
                 </div>
@@ -86,7 +86,7 @@ An overview of our products and their related services.
                 <div class="column col-auto icon"><i class="fa fa-tag"></i></div>
                     <div class="column">
                         <div class="title">Aqount for Subscriptions</div>
-                        <div class="teaser">Continous service provision based on subscription models have become common standard. Learn more about our solution Aquont Subscriptions</div>
+                        <div class="teaser">Continous service provision based on subscription models have become common standard. Learn more about our solution Aquont for Subscriptions</div>
                         <button class="btn btn-sm">Read more</button>
                     </div>
                 </div>
