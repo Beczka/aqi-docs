@@ -48,3 +48,9 @@ tests/cache/*
 tests/error.log
 system/templates/testing/*
 /user/config/versions.yaml
+
+# nodeenv files
+aqi/bin/activate
+aqi/bin/node
+aqi/bin/nodejs
+aqi/bin/shim
