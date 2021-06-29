@@ -6,6 +6,8 @@ body_classes: title-center title-h1h2
 
 Welcome on board. Explore our documentation including examples to help you integrating Aqount.
 
+---
+
 ## :fa-rocket: Getting started
 An overview of the main sections we have prepared for you to get started. 
 
@@ -50,14 +52,11 @@ An overview of the main sections we have prepared for you to get started.
           <div class="card-body">
                 <h2>API Explorer <i class="fa fa-code"></i></h2>
                 <div class="teaser">Use the <strong>Aquout API Explorer</strong> to learn about the API, send test requests and get dummy responses.</div>
-                <button class="btn btn-sm btn-primary">Open API Explorer</button>
+                <a class="btn btn-sm btn-primary" href="https://bfs-dev-aqi-apim.developer.azure-api.net/" target="_blank">Open API Explorer</a>
            </div>
       </div>  
   </div>
 </div>
-
-
-
 
 ---
 

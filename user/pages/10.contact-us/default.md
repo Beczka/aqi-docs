@@ -1,7 +1,7 @@
 ---
 title: Contact us
 ---
-Need help? Fill out the contact form and we get back to you as fast as possible.
+> Need help? Fill out the contact form and we get back to you as fast as possible.
 
 <form class="form-horizontal">
   <div class="form-group">
@@ -21,7 +21,7 @@ Need help? Fill out the contact form and we get back to you as fast as possible.
       <label class="form-label" for="input-example-1">Email</label>
     </div>
     <div class="col-9">
-      <input class="form-input" type="text" id="input-example-1" placeholder="email">
+      <input class="form-input" type="text" id="input-example-1" placeholder="EMail">
     </div>
   </div>
   <div class="form-group">
