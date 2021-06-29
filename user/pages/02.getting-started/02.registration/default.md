@@ -8,6 +8,8 @@ slug: registration
 Please note, your registration is non-binding and does not incur any costs. 
 Your test account will be made available to you immediately after registration. The login details for your test account will be emailed to you as part of the registration confirmation.
 
+!! **TODO:** Create detailed specification of the registation process. Do we expect the confirmation mail to include a confirmation link? Assumption: No.
+
 <form class="form-horizontal">
   <div class="form-group">
     <div class="col-3">

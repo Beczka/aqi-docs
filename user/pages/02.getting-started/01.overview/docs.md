@@ -16,7 +16,7 @@ Your test account allows you to:
 * Interact and play with all of our endpoints (see [API Explorer](/api-explorer))
 * Start building your integration
  
-!! TODO: Clarify the scope of the test account. The list should include features such as "Make test payments"
+!! **TODO:** Clarify the scope of the test account. The list should include features such as "Make test payments"
  
 For further contractual handling, you will be contacted by our team once you signed up for your test account.
   
@@ -29,11 +29,22 @@ Start implementing your integration using your test account. While doing so, you
 
 Depending on your business needs, your may want to start your integration based on one of the following use cases:
 
-* 
+!! **TODO:** Add list of relevant use cases here. Do we refer to the use cases from the product pages? 
 
 ---
 
 ## Step 3: Apply for your live account
+
+While your **test account** is fine to play, test and integrate with our API, your **live account** allows you to consume our API in **LIVE mode**. Due the nature of the our business being part of the Finance domain, we are legally obliged to do detailed checks when you apply for a live account.
+
+Here is a check list to help you applying for a live account:
+
+* Prepare your application for a live account.
+* Check the list of prohibited or restricted products and services. Get in touch with us if you think this applies to your business.
+* Make sure you've been in touch with a sales contact.
+* Apply for your live account via email to `aqount@arvato.com` including all required documents.
+
+While you wait for a live account, you can work on your integration using your test account. However, you may want to wait for the result of your application to be confirmed first.
 
 ---
 
