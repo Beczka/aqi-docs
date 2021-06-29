@@ -9,11 +9,17 @@ page-toc:
 
 ## Step 1: Get your test account
 
-Get started with Aqount by creating your **free** test account. Your test account allows you to connect to the our API and to play around or to start with your integration. 
+Get started with Aqount by [creating your **free** test account](../registration). Your test account allows you to connect to the our API and to play around or to start with your integration. 
 
 Your test account allows you to:
-
+ 
+* Interact and play with all of our endpoints (see [API Explorer](/api-explorer))
+* Start building your integration
+ 
 !! TODO: Clarify the scope of the test account. The list should include features such as "Make test payments"
+ 
+For further contractual handling, you will be contacted by our team once you signed up for your test account.
+  
 
 ---
 
