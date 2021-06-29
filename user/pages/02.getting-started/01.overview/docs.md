@@ -50,10 +50,15 @@ While you wait for a live account, you can work on your integration using your t
 
 ## Step 4: Sign contract and get your live account
 
+Once your application is approved, we will send you the contract. If your integration uses card payments, we also send you a data security attestation form. Complete this form based on your technical integration to ensure compliance with Payment Card Industry (PCI) standards.
+
+Once we've received the signed contract and the completed data security attestation form, you will be provide with your live account details. The details will be send by email to the user who created the test account.
+
 ---
 
 ## Step 5: Configure your live account
 
+To start consuming our API in  **LIVE mode** using your live account, you will first have to configure it. Use our go-live checklists to make sure you've got everything correctly.
 
 
 
