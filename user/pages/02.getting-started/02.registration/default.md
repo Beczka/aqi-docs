@@ -5,8 +5,12 @@ slug: registration
 
 >  **Get started with Aqount by creating your free test account.**
 
+Get started with Aqount by requesting your free test account. Your test account allows you to connect to our API and to play around or to start with your integration. For all further contractual handling, you will be contacted by our team once you signed up for your test account.
+
 Please note, your registration is non-binding and does not incur any costs.
 Your test account will be made available to you immediately after registration. The login details for your test account will be emailed to you as part of the registration confirmation.
+
+To explore our API, checkout our [this section](/getting-started/overview#step-2-start-building-your-integration) proving a list of potential starting points.
 
 !! **TODO:** Create detailed specification of the registration process. Do we expect the confirmation mail to include a confirmation link? Assumption: No.
 

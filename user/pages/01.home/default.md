@@ -17,9 +17,9 @@ An overview of the main sections we have prepared for you to get started.
           <div class="card-body">
             <div class="icon"><i class="fa fa-wpforms"></i></div>
             <div class="title">Get your test account</div>
-            <div class="teaser">How to run through our [registration process] and get your test account to kick-off.</div>
+            <div class="teaser">How to run through our registration process and get your test account to kick-off.</div>
            </div>
-          <div class="card-footer"><button class="btn btn-sm btn-primary">Read more</button></div>
+          <div class="card-footer"><a class="btn btn-sm btn-primary" href="/getting-started/overview#step-1-get-your-test-account">Read more</a></div>
       </div>
   </div>
   <div class="column col-4">
@@ -29,7 +29,7 @@ An overview of the main sections we have prepared for you to get started.
             <div class="title">Start building your integration</div>
             <div class="teaser">Follow our checklist to start using our API and get your integration done.</div>
            </div>
-          <div class="card-footer"><button class="btn btn-sm btn-primary">Read more</button></div>
+          <div class="card-footer"><a class="btn btn-sm btn-primary" href="/getting-started/overview#step-2-start-building-your-integration">Read more</a></div>
       </div>
   </div>
   <div class="column col-4">
@@ -37,9 +37,9 @@ An overview of the main sections we have prepared for you to get started.
           <div class="card-body">
             <div class="icon"><i class="fa fa-plug"></i></div>
             <div class="title">Start using our API in real life</div>
-            <div class="teaser">Are you ready for PROD? See how to ge the final connection configuration done.</div>
+            <div class="teaser">Are you ready for PROD? See how to get the final connection configuration done.</div>
            </div>
-          <div class="card-footer"><button class="btn btn-sm btn-primary">Read more</button></div>
+          <div class="card-footer"><a class="btn btn-sm btn-primary" href="/getting-started/go-live-checklist">Read more</a></div>
       </div>
   </div>
 </div>
