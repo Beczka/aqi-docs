@@ -38,7 +38,7 @@ While your test account is fine to play, test and integrate with our API, your l
 Here is a check list to help you preparing for a live account:
 
 * Make sure you've been in touch with a [sales contact](/contact-us) for all non-technical contractual topics.
-* Follow our [step-by-step instruction guide](/application) to specify all required configuration details by filling out your technical application.
+* Follow our [step-by-step instruction guide](/getting-started/application) to specify all required configuration details by filling out your technical application.
 * Send us your technical application for your live account via email to `aqount@arvato.com`.
 
 While you wait for a live account, you can work on your integration using your test account. However, you may want to wait for the result of your application to be confirmed first.
