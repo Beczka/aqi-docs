@@ -31,7 +31,7 @@ $gray-color: lighten($dark-color, 40%) !default;
 $gray-color-dark: darken($gray-color, 25%) !default;
 $border-color: lighten($dark-color, 60%) !default;
 $bg-color: lighten($dark-color, 66%) !default;
-$code-color: $lavender !default;
+$code-color: lighten($orange, 0%) !default;
 $selection-color: #ECECFE;
 
 // Sidebar

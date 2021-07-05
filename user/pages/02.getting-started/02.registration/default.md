@@ -3,12 +3,12 @@ title: Sign up
 slug: registration
 ---
 
->  Get started with Aquont by creating your **free** test account. 
+>  **Get started with Aqount by creating your free test account.**
 
-Please note, your registration is non-binding and does not incur any costs. 
+Please note, your registration is non-binding and does not incur any costs.
 Your test account will be made available to you immediately after registration. The login details for your test account will be emailed to you as part of the registration confirmation.
 
-!! **TODO:** Create detailed specification of the registation process. Do we expect the confirmation mail to include a confirmation link? Assumption: No.
+!! **TODO:** Create detailed specification of the registration process. Do we expect the confirmation mail to include a confirmation link? Assumption: No.
 
 <form class="form-horizontal">
   <div class="form-group">

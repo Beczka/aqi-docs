@@ -9,7 +9,7 @@ Welcome on board. Explore our documentation including examples to help you integ
 ---
 
 ## :fa-rocket: Getting started
-An overview of the main sections we have prepared for you to get started. 
+An overview of the main sections we have prepared for you to get started.
 
 <div class="columns col-oneline getting-started">
   <div class="column col-4">
@@ -61,7 +61,7 @@ An overview of the main sections we have prepared for you to get started.
 ---
 
 ## :fa-briefcase: Products
-An overview of our products and their related services. 
+An overview of our products and their related services.
 
 <div class="columns col-oneline products">
   <div class="column col-6">
@@ -90,14 +90,6 @@ An overview of our products and their related services.
                     </div>
                 </div>
            </div>
-      </div> 
+      </div>
   </div>
 </div>
-
-
-
-
-
-
-
-
